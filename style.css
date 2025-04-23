@@ -69,6 +69,22 @@
   
  }
 
+ .credits{
+  position: relative;
+    z-index: 1;
+    color: white;
+  
+    top: 80%;
+    display: flex;
+    justify-content: center;
+    height: 10px;
+    align-items: center;
+ }
+
+ .credits a{
+  color: rgb(247, 247, 247);
+  text-decoration: none;
+ }
   .main-content{
     flex: 1;
     
